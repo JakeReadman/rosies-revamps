@@ -1,0 +1,19 @@
+{
+  "name": "rosies-revamps",
+  "version": "1.0.0",
+  "description": "A simple website for a friend mainly using plain CSS with a small amount of JQuery for the navbar responsiveness on scroll.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JakeReadman/rosies-revamps.git"
+  },
+  "author": "Jake Readman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JakeReadman/rosies-revamps/issues"
+  },
+  "homepage": "https://github.com/JakeReadman/rosies-revamps#readme"
+}
