@@ -8,7 +8,7 @@ app.get('/', (req, res) => {
   res.render('home');
 });
 
-// app.use(express.static(__dirname + '/public'));
+app.use(express.static(__dirname + '/public'));
 
 app.listen(port, () => {
   console.log(`listening on http://localhost:${port}`);
