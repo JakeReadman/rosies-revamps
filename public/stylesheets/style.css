@@ -110,6 +110,16 @@ img {
   color: white !important;
 }
 
+#gallery .widget-container {
+  margin: 0 2rem;
+}
+  
+  #gallery .widget-container .widget {
+    padding: 2rem !important;
+    font-family: 'nunito'!important;
+    color: #666 !important;
+}
+
 @media (max-width: 1200px) {
   h2 {
     font-size: 2.5rem;
