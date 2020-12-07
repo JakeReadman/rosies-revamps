@@ -120,6 +120,11 @@ img {
     color: #666 !important;
 }
 
+.eui-widget-title .eapps-instagram-feed-title {
+  font-family: 'nunito'!important;
+    color: #666 !important;
+}
+
 @media (max-width: 1200px) {
   h2 {
     font-size: 2.5rem;
