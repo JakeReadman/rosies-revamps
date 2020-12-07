@@ -92,6 +92,10 @@ img {
   margin-bottom: 0 !important;
 }
 
+.footer a:hover {
+  color: #f95fb7;
+}
+
 #navbar-brand {
   display: none;
 }
