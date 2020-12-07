@@ -92,7 +92,7 @@ img {
   margin-bottom: 0 !important;
 }
 
-.footer a:hover {
+.footer a .fab:hover {
   color: #f95fb7;
 }
 
