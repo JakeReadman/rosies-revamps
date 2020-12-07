@@ -123,8 +123,9 @@ img {
 .eui-widget-title .eapps-instagram-feed-title {
   color: #666 !important;
   font-family: 'nunito'!important;
-  font-weight: 300;
-  letter-spacing: 0.1rem;
+  font-weight: 300 !important;
+  letter-spacing: 0.1rem !important;
+  text-transform: uppercase;
 }
 
 @media (max-width: 1200px) {
