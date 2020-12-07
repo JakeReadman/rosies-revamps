@@ -116,16 +116,6 @@ img {
   
   #gallery .widget-container .widget {
     padding: 2rem !important;
-    font-family: 'nunito'!important;
-    color: #666 !important;
-}
-
-.eui-widget-title .eapps-instagram-feed-title {
-  color: #666 !important;
-  font-family: 'nunito'!important;
-  font-weight: 300 !important;
-  letter-spacing: 0.1rem !important;
-  text-transform: uppercase;
 }
 
 @media (max-width: 1200px) {
@@ -147,5 +137,9 @@ img {
 @media (max-width: 500px) {
   .contact-items div {
     padding-bottom: 2rem;
+  }
+
+  #gallery .widget-container {
+    margin: 0;
   }
 }
